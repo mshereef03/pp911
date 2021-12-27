@@ -8,4 +8,7 @@ public class ff {
         System.out.println("wassup");
 
     }
+
+ public static void edy(int x){}
+
 }
