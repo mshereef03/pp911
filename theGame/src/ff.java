@@ -10,8 +10,8 @@ public class ff {
     }
 
 
+
  public static void edy(int x){}
 
-blaaaaaaa
-
+}
 
